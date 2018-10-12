@@ -1,0 +1,7 @@
+G:\VisualStudioResolucations\ChatRoomService\ChatRoomClient\bin\Debug\ChatRoomClient.exe.config
+G:\VisualStudioResolucations\ChatRoomService\ChatRoomClient\bin\Debug\ChatRoomClient.exe
+G:\VisualStudioResolucations\ChatRoomService\ChatRoomClient\bin\Debug\ChatRoomClient.pdb
+G:\VisualStudioResolucations\ChatRoomService\ChatRoomClient\obj\Debug\ChatRoomClient.csprojAssemblyReference.cache
+G:\VisualStudioResolucations\ChatRoomService\ChatRoomClient\obj\Debug\ChatRoomClient.csproj.CoreCompileInputs.cache
+G:\VisualStudioResolucations\ChatRoomService\ChatRoomClient\obj\Debug\ChatRoomClient.exe
+G:\VisualStudioResolucations\ChatRoomService\ChatRoomClient\obj\Debug\ChatRoomClient.pdb

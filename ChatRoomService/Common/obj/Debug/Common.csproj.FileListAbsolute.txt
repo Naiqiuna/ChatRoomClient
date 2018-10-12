@@ -1,0 +1,12 @@
+G:\VisualStudioResolucations\ChatRoomService\Common\bin\Debug\Common.dll
+G:\VisualStudioResolucations\ChatRoomService\Common\bin\Debug\Common.pdb
+G:\VisualStudioResolucations\ChatRoomService\Common\obj\Debug\Common.csprojAssemblyReference.cache
+G:\VisualStudioResolucations\ChatRoomService\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+G:\VisualStudioResolucations\ChatRoomService\Common\obj\Debug\Common.dll
+G:\VisualStudioResolucations\ChatRoomService\Common\obj\Debug\Common.pdb
+E:\CustomProjects\OnlineChatRoom\ChatRoomService\ChatRoomService\Common\bin\Debug\Common.dll
+E:\CustomProjects\OnlineChatRoom\ChatRoomService\ChatRoomService\Common\bin\Debug\Common.pdb
+E:\CustomProjects\OnlineChatRoom\ChatRoomService\ChatRoomService\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\CustomProjects\OnlineChatRoom\ChatRoomService\ChatRoomService\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\CustomProjects\OnlineChatRoom\ChatRoomService\ChatRoomService\Common\obj\Debug\Common.dll
+E:\CustomProjects\OnlineChatRoom\ChatRoomService\ChatRoomService\Common\obj\Debug\Common.pdb
